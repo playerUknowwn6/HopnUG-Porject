@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "program": "MBA",
+    "year": "2023",
+    "country": "USA",
+    "image": "/placeholder.svg?height=80&width=80",
+    "quote": "The MBA program at HOPn UG University transformed my career. The flexible online format allowed me to continue working while gaining invaluable business skills.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Ahmed Al-Rashid",
+    "program": "Computer Science",
+    "year": "2022",
+    "country": "Saudi Arabia",
+    "image": "/placeholder.svg?height=80&width=80",
+    "quote": "The multilingual support and excellent faculty made my learning experience exceptional. I now work as a software engineer at a leading tech company.",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Maria Schmidt",
+    "program": "International Relations",
+    "year": "2023",
+    "country": "Germany",
+    "image": "/placeholder.svg?height=80&width=80",
+    "quote": "The diverse student body and comprehensive curriculum prepared me perfectly for my role at the United Nations. Highly recommended!",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "David Chen",
+    "program": "Data Science Certificate",
+    "year": "2024",
+    "country": "Canada",
+    "image": "/placeholder.svg?height=80&width=80",
+    "quote": "The intensive data science program gave me the skills I needed to transition from finance to tech. The instructors were world-class.",
+    "rating": 5
+  }
+]

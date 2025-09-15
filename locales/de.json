@@ -1,0 +1,178 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "programs": "Studiengänge",
+    "admissions": "Zulassung",
+    "studentPortal": "Studentenportal",
+    "contact": "Kontakt",
+    "applyNow": "Jetzt bewerben"
+  },
+  "home": {
+    "hero": {
+      "title": "Exzellenz in der Hochschulbildung",
+      "subtitle": "Schließen Sie sich Tausenden von Studenten aus aller Welt in unseren innovativen Programmen an, die für die Zukunft von Arbeit und Gesellschaft entwickelt wurden.",
+      "explorePrograms": "Programme erkunden"
+    },
+    "stats": {
+      "students": "Studenten weltweit",
+      "programs": "Studienprogramme",
+      "employment": "Absolventenquote",
+      "languages": "Unterstützte Sprachen"
+    },
+    "whyChoose": {
+      "title": "Warum HOPn UG Universität wählen?",
+      "subtitle": "Wir bieten Weltklasse-Bildung mit innovativen Lehrmethoden und globalen Perspektiven.",
+      "multilingual": {
+        "title": "Mehrsprachige Bildung",
+        "description": "Studieren Sie auf Englisch, Deutsch oder Arabisch mit umfassender Sprachunterstützung."
+      },
+      "faculty": {
+        "title": "Experten-Fakultät",
+        "description": "Lernen Sie von Branchenführern und renommierten Akademikern mit praktischer Erfahrung."
+      },
+      "flexible": {
+        "title": "Flexibles Lernen",
+        "description": "Wählen Sie aus Online-, Hybrid- oder Campus-Programmen, die zu Ihrem Lebensstil passen."
+      },
+      "accredited": {
+        "title": "Akkreditierte Programme",
+        "description": "Alle Programme sind international anerkannt und branchenorientiert."
+      }
+    },
+    "featuredPrograms": {
+      "title": "Ausgewählte Programme",
+      "subtitle": "Entdecken Sie unsere beliebtesten Programme, die Sie auf die Herausforderungen von morgen vorbereiten.",
+      "viewAll": "Alle Programme anzeigen"
+    },
+    "testimonials": {
+      "title": "Erfolgsgeschichten der Studenten",
+      "subtitle": "Hören Sie von unseren Absolventen, die in ihren Bereichen einen Unterschied machen."
+    },
+    "cta": {
+      "title": "Bereit, Ihre Reise zu beginnen?",
+      "subtitle": "Schließen Sie sich Tausenden von Studenten an, die ihre Karriere mit unserer Weltklasse-Bildung transformiert haben.",
+      "contactAdmissions": "Zulassungsstelle kontaktieren"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Über die HOPn UG Universität",
+      "subtitle": "Pioniere der Exzellenz in der Hochschulbildung seit 2010, wir sind verpflichtet, globale Führungskräfte und Innovatoren zu formen."
+    },
+    "mission": {
+      "title": "Unsere Mission",
+      "description": "Zugängliche, hochwertige Bildung zu bieten, die Studenten aus verschiedenen Hintergründen befähigt, ihre akademischen und beruflichen Ziele zu erreichen und positiv zur Gesellschaft beizutragen."
+    },
+    "vision": {
+      "title": "Unsere Vision",
+      "description": "Eine führende globale Universität zu sein, die für Innovation in der Bildung, Forschungsexzellenz und die Vorbereitung von Absolventen anerkannt ist, die positive Veränderungen in der Welt vorantreiben."
+    },
+    "values": {
+      "title": "Unsere Werte",
+      "description": "Exzellenz, Integrität, Vielfalt, Innovation und soziale Verantwortung leiten alles, was wir tun, von der Lehrplangestaltung bis zu den Studentenbetreuungsdiensten."
+    }
+  },
+  "programs": {
+    "hero": {
+      "title": "Studienprogramme",
+      "subtitle": "Entdecken Sie Weltklasse-Programme, die Sie auf den Erfolg in Ihrem gewählten Bereich vorbereiten."
+    },
+    "filters": {
+      "search": "Programme suchen...",
+      "filters": "Filter:",
+      "allLevels": "Alle Stufen",
+      "bachelor": "Bachelor",
+      "master": "Master",
+      "certificate": "Zertifikat",
+      "allModes": "Alle Modi",
+      "online": "Online",
+      "hybrid": "Hybrid",
+      "onCampus": "Auf dem Campus",
+      "allLanguages": "Alle Sprachen",
+      "english": "Englisch",
+      "german": "Deutsch",
+      "arabic": "Arabisch",
+      "clearFilters": "Filter löschen"
+    },
+    "showing": "Zeige",
+    "of": "von",
+    "programsText": "Programmen",
+    "noResults": {
+      "title": "Keine Programme gefunden",
+      "description": "Wir konnten keine Programme finden, die Ihren aktuellen Filtern entsprechen. Versuchen Sie, Ihre Suchkriterien anzupassen.",
+      "clearAll": "Alle Filter löschen"
+    }
+  },
+  "application": {
+    "title": "Bewerbungsformular",
+    "subtitle": "Vervollständigen Sie Ihre Bewerbung für die HOPn UG Universität",
+    "steps": {
+      "personal": {
+        "title": "Persönliche Informationen",
+        "description": "Grundlegende persönliche Daten"
+      },
+      "education": {
+        "title": "Bildungshintergrund",
+        "description": "Akademische Geschichte"
+      },
+      "documents": {
+        "title": "Dokument-Upload",
+        "description": "Erforderliche Dokumente"
+      },
+      "motivation": {
+        "title": "Motivation & Ziele",
+        "description": "Persönliche Erklärung"
+      },
+      "confirmation": {
+        "title": "Überprüfen & Senden",
+        "description": "Endgültige Bestätigung"
+      }
+    },
+    "continue": "Weiter",
+    "previous": "Zurück",
+    "submit": "Bewerbung senden"
+  },
+  "studentPortal": {
+    "title": "Studentenportal",
+    "subtitle": "Melden Sie sich an, um auf Ihr Studenten-Dashboard zuzugreifen",
+    "signIn": "Anmelden",
+    "username": "Benutzername / E-Mail",
+    "password": "Passwort",
+    "forgotPassword": "Passwort vergessen?",
+    "needHelp": "Brauchen Sie Hilfe?",
+    "contactSupport": "Support kontaktieren",
+    "welcome": "Willkommen zurück",
+    "signOut": "Abmelden",
+    "overview": "Übersicht",
+    "courses": "Kurse",
+    "schedule": "Stundenplan",
+    "profile": "Profil"
+  },
+  "footer": {
+    "description": "Exzellenz in der Hochschulbildung mit Weltklasse-Programmen für die globale Studentengemeinschaft.",
+    "quickLinks": "Schnelle Links",
+    "academicPrograms": "Studienprogramme",
+    "bachelorPrograms": "Bachelor-Programme",
+    "masterPrograms": "Master-Programme",
+    "certificatePrograms": "Zertifikatsprogramme",
+    "onlineLearning": "Online-Lernen",
+    "hybridPrograms": "Hybrid-Programme",
+    "contactInfo": "Kontaktinformationen",
+    "copyright": "© 2024 HOPn UG Universität. Alle Rechte vorbehalten.",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "terms": "Geschäftsbedingungen",
+    "impressum": "Impressum"
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "confirm": "Bestätigen",
+    "close": "Schließen"
+  }
+}

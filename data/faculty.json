@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Elena Müller",
+    "title": "Professor of Computer Science",
+    "department": "Computer Science",
+    "image": "/placeholder.svg?height=200&width=200",
+    "bio": "Dr. Müller has over 15 years of experience in software engineering and artificial intelligence. She holds a PhD from MIT and has published over 50 research papers.",
+    "specializations": ["Artificial Intelligence", "Machine Learning", "Software Engineering"],
+    "education": ["PhD Computer Science, MIT", "MS Computer Science, Stanford University"]
+  },
+  {
+    "id": 2,
+    "name": "Prof. James Wilson",
+    "title": "Dean of Business School",
+    "department": "Business Administration",
+    "image": "/placeholder.svg?height=200&width=200",
+    "bio": "Professor Wilson brings 20 years of industry experience from Fortune 500 companies. He specializes in strategic management and international business.",
+    "specializations": ["Strategic Management", "International Business", "Leadership"],
+    "education": ["PhD Business Administration, Harvard Business School", "MBA, Wharton School"]
+  },
+  {
+    "id": 3,
+    "name": "Dr. Fatima Al-Zahra",
+    "title": "Professor of International Relations",
+    "department": "International Relations",
+    "image": "/placeholder.svg?height=200&width=200",
+    "bio": "Dr. Al-Zahra is an expert in Middle Eastern politics and international diplomacy. She has served as an advisor to several international organizations.",
+    "specializations": ["Middle Eastern Politics", "International Diplomacy", "Conflict Resolution"],
+    "education": [
+      "PhD International Relations, Oxford University",
+      "MA Political Science, American University of Beirut"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dr. Michael Thompson",
+    "title": "Professor of Data Science",
+    "department": "Data Science",
+    "image": "/placeholder.svg?height=200&width=200",
+    "bio": "Dr. Thompson is a leading researcher in big data analytics and statistical modeling. He has worked with major tech companies and government agencies.",
+    "specializations": ["Big Data Analytics", "Statistical Modeling", "Data Visualization"],
+    "education": ["PhD Statistics, University of California Berkeley", "MS Mathematics, Caltech"]
+  }
+]

@@ -1,0 +1,178 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "programs": "Programs",
+    "admissions": "Admissions",
+    "studentPortal": "Student Portal",
+    "contact": "Contact",
+    "applyNow": "Apply Now"
+  },
+  "home": {
+    "hero": {
+      "title": "Excellence in Higher Education",
+      "subtitle": "Join thousands of students from around the world in our innovative programs designed for the future of work and society.",
+      "explorePrograms": "Explore Programs"
+    },
+    "stats": {
+      "students": "Students Worldwide",
+      "programs": "Academic Programs",
+      "employment": "Graduate Employment",
+      "languages": "Languages Supported"
+    },
+    "whyChoose": {
+      "title": "Why Choose HOPn UG University?",
+      "subtitle": "We provide world-class education with innovative teaching methods and global perspectives.",
+      "multilingual": {
+        "title": "Multilingual Education",
+        "description": "Study in English, German, or Arabic with comprehensive language support."
+      },
+      "faculty": {
+        "title": "Expert Faculty",
+        "description": "Learn from industry leaders and renowned academics with real-world experience."
+      },
+      "flexible": {
+        "title": "Flexible Learning",
+        "description": "Choose from online, hybrid, or on-campus programs that fit your lifestyle."
+      },
+      "accredited": {
+        "title": "Accredited Programs",
+        "description": "All programs are internationally recognized and industry-aligned."
+      }
+    },
+    "featuredPrograms": {
+      "title": "Featured Programs",
+      "subtitle": "Discover our most popular programs designed to prepare you for tomorrow's challenges.",
+      "viewAll": "View All Programs"
+    },
+    "testimonials": {
+      "title": "Student Success Stories",
+      "subtitle": "Hear from our graduates who are making a difference in their fields."
+    },
+    "cta": {
+      "title": "Ready to Start Your Journey?",
+      "subtitle": "Join thousands of students who have transformed their careers with our world-class education.",
+      "contactAdmissions": "Contact Admissions"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About HOPn UG University",
+      "subtitle": "Pioneering excellence in higher education since 2010, we are committed to shaping global leaders and innovators."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To provide accessible, high-quality education that empowers students from diverse backgrounds to achieve their academic and professional goals while contributing positively to society."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be a leading global university recognized for innovation in education, research excellence, and preparing graduates who drive positive change in the world."
+    },
+    "values": {
+      "title": "Our Values",
+      "description": "Excellence, Integrity, Diversity, Innovation, and Social Responsibility guide everything we do, from curriculum design to student support services."
+    }
+  },
+  "programs": {
+    "hero": {
+      "title": "Academic Programs",
+      "subtitle": "Discover world-class programs designed to prepare you for success in your chosen field."
+    },
+    "filters": {
+      "search": "Search programs...",
+      "filters": "Filters:",
+      "allLevels": "All Levels",
+      "bachelor": "Bachelor",
+      "master": "Master",
+      "certificate": "Certificate",
+      "allModes": "All Modes",
+      "online": "Online",
+      "hybrid": "Hybrid",
+      "onCampus": "On Campus",
+      "allLanguages": "All Languages",
+      "english": "English",
+      "german": "German",
+      "arabic": "Arabic",
+      "clearFilters": "Clear Filters"
+    },
+    "showing": "Showing",
+    "of": "of",
+    "programsText": "programs",
+    "noResults": {
+      "title": "No Programs Found",
+      "description": "We couldn't find any programs matching your current filters. Try adjusting your search criteria.",
+      "clearAll": "Clear All Filters"
+    }
+  },
+  "application": {
+    "title": "Application Form",
+    "subtitle": "Complete your application to join HOPn UG University",
+    "steps": {
+      "personal": {
+        "title": "Personal Information",
+        "description": "Basic personal details"
+      },
+      "education": {
+        "title": "Education Background",
+        "description": "Academic history"
+      },
+      "documents": {
+        "title": "Document Upload",
+        "description": "Required documents"
+      },
+      "motivation": {
+        "title": "Motivation & Goals",
+        "description": "Personal statement"
+      },
+      "confirmation": {
+        "title": "Review & Submit",
+        "description": "Final confirmation"
+      }
+    },
+    "continue": "Continue",
+    "previous": "Previous",
+    "submit": "Submit Application"
+  },
+  "studentPortal": {
+    "title": "Student Portal",
+    "subtitle": "Sign in to access your student dashboard",
+    "signIn": "Sign In",
+    "username": "Username / Email",
+    "password": "Password",
+    "forgotPassword": "Forgot your password?",
+    "needHelp": "Need help?",
+    "contactSupport": "Contact Support",
+    "welcome": "Welcome back",
+    "signOut": "Sign Out",
+    "overview": "Overview",
+    "courses": "Courses",
+    "schedule": "Schedule",
+    "profile": "Profile"
+  },
+  "footer": {
+    "description": "Excellence in higher education with world-class programs designed for the global student community.",
+    "quickLinks": "Quick Links",
+    "academicPrograms": "Academic Programs",
+    "bachelorPrograms": "Bachelor Programs",
+    "masterPrograms": "Master Programs",
+    "certificatePrograms": "Certificate Programs",
+    "onlineLearning": "Online Learning",
+    "hybridPrograms": "Hybrid Programs",
+    "contactInfo": "Contact Information",
+    "copyright": "© 2024 HOPn UG University. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "impressum": "Impressum"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "close": "Close"
+  }
+}
