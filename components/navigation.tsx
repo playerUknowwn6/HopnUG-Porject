@@ -27,8 +27,10 @@ export function Navigation() {
   const handleLanguageChange = (language: Language) => {
     setLanguage(language)
     // Update document direction
-    document.documentElement.dir = getLanguageDirection(language)
-    document.documentElement.lang = language
+    if (typeof window !== "undefined") {
+      document.documentElement.dir = getLanguageDirection(language)
+      document.documentElement.lang = language
+    }
   }
 
   const currentLang = languages.find((lang) => lang.code === currentLanguage)

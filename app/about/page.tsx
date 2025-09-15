@@ -1,4 +1,5 @@
-import { Navigation } from "@/components/navigation"
+import { Suspense } from "react"
+import { ClientNavigation } from "@/components/client-navigation"
 import { Footer } from "@/components/footer"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
@@ -8,7 +9,9 @@ import faculty from "@/data/faculty.json"
 export default function AboutPage() {
   return (
     <div className="min-h-screen bg-background">
-      <Navigation />
+      <Suspense fallback={<div>Loading...</div>}>
+        <ClientNavigation />
+      </Suspense>
 
       {/* Hero Section */}
       <section className="relative bg-gradient-to-br from-primary to-primary/90 text-primary-foreground">

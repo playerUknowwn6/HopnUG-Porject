@@ -4,8 +4,7 @@ import type React from "react"
 import { GeistSans } from "geist/font/sans"
 import { GeistMono } from "geist/font/mono"
 import { Analytics } from "@vercel/analytics/next"
-import { Suspense } from "react"
-import { CookieConsent } from "@/components/cookie-consent"
+import { ClientCookieConsent } from "@/components/client-cookie-consent"
 import "./globals.css"
 
 export default function ClientLayout({
@@ -16,8 +15,8 @@ export default function ClientLayout({
   return (
     <html lang="en">
       <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable}`}>
-        <Suspense fallback={<div>Loading...</div>}>{children}</Suspense>
-        <CookieConsent />
+        {children}
+        <ClientCookieConsent />
         <Analytics />
       </body>
     </html>

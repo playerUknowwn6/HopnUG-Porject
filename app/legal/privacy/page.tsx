@@ -1,11 +1,14 @@
-import { Navigation } from "@/components/navigation"
+import { Suspense } from "react"
+import { ClientNavigation } from "@/components/client-navigation"
 import { Footer } from "@/components/footer"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 
 export default function PrivacyPolicyPage() {
   return (
     <div className="min-h-screen bg-background">
-      <Navigation />
+      <Suspense fallback={<div>Loading...</div>}>
+        <ClientNavigation />
+      </Suspense>
 
       <section className="py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">

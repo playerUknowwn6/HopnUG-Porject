@@ -26,11 +26,12 @@ export function CookieConsent() {
 
   useEffect(() => {
     // Check if user has already made a choice
-    const consent = localStorage.getItem("cookie-consent")
-    if (!consent) {
-      // Show banner after a short delay
-      const timer = setTimeout(() => setShowBanner(true), 1000)
-      return () => clearTimeout(timer)
+    if (typeof window !== "undefined") {
+      const consent = localStorage.getItem("cookie-consent")
+      if (!consent) {
+        const timer = setTimeout(() => setShowBanner(true), 1000)
+        return () => clearTimeout(timer)
+      }
     }
   }, [])
 
@@ -67,13 +68,15 @@ export function CookieConsent() {
   }
 
   const saveCookiePreferences = (prefs: CookiePreferences) => {
-    localStorage.setItem(
-      "cookie-consent",
-      JSON.stringify({
-        preferences: prefs,
-        timestamp: new Date().toISOString(),
-      }),
-    )
+    if (typeof window !== "undefined") {
+      localStorage.setItem(
+        "cookie-consent",
+        JSON.stringify({
+          preferences: prefs,
+          timestamp: new Date().toISOString(),
+        }),
+      )
+    }
 
     // Here you would typically initialize analytics, marketing tools, etc.
     // based on the user's preferences
